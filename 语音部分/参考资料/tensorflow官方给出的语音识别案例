@@ -1,1 +1,4 @@
+官方教程：
 https://www.tensorflow.org/tutorials/sequences/audio_recognition
+git上的源代码：
+https://github.com/ningziwei/tensorflow/tree/master/tensorflow/examples/speech_commands
